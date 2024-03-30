@@ -1,5 +1,7 @@
 # INT3133 20 Kỹ nghệ yêu cầu
 
+## Giảng viên: TS. Đặng Đức Hạnh
+
 ## Chủ để: Hệ thống hỗ trợ nhóm làm bài tập lớn UET
 
 ## Nhóm 6: 
